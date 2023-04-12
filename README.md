@@ -19,6 +19,7 @@
   <div>
 <p align="center"><img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="600" height="300"  /></p>
 </div>
+<div>
 ###  &nbsp;About Me:
 
 - 💻I'm a Computer Science student interested in Machine Learning and Data Science.
@@ -56,5 +57,5 @@
 <p align="center"><img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250" /></p>
 
 ---
-
+</div>
 
