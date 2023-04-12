@@ -1,6 +1,14 @@
 <h1 align="center">Hello World,It's Atharv <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center"><img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300"/></p>
+
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=atharvpatwardhan&style=flat-square&color=blue" alt="">
+</p>
+
+
+
 <p align="center">
 <a href="https://www.linkedin.com/in/atharv-patwardhan-b3175b216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
 </p>
@@ -8,12 +16,6 @@
 <p align="center">
   <a href="https://atharvpatwardhan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Personal%20Website-yellow" alt="Portfolio"></a>
 </p
-
-
-
-<p align="center"><img src="https://komarev.com/ghpvc/?username=atharvpatwardhan&style=flat-square&color=blue" alt=""></p>
-
-
 <p align="center"><img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="600" height="300"  /></p>
 
 ###  &nbsp;About Me:
