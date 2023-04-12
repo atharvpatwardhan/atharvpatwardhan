@@ -16,8 +16,9 @@
 <p align="center">
   <a href="https://atharvpatwardhan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Personal%20Website-yellow" alt="Portfolio"></a>
 </p
+  <div>
 <p align="center"><img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="600" height="300"  /></p>
-
+</div>
 ###  &nbsp;About Me:
 
 - 💻I'm a Computer Science student interested in Machine Learning and Data Science.
