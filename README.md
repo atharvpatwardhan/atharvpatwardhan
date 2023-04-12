@@ -3,13 +3,11 @@
 <p align="center"><img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300"/></p>
 <p align="center">
 <a href="https://www.linkedin.com/in/atharv-patwardhan-b3175b216/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"></a>
-
-
-<a href="https://atharvpatwardhan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Personal%20Website-yellow" alt="Portfolio"></a>  
-
-  
 </p>
 
+<p align="center">
+  <a href="https://atharvpatwardhan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Personal%20Website-yellow" alt="Portfolio"></a>
+</p
 
 
 
