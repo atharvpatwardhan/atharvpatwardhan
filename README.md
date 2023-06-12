@@ -53,7 +53,6 @@
 ### 🔥 &nbsp; My Stats :
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atharvpatwardhan&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=atharvpatwardhan&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <p align="center"><img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250" /></p>
 
