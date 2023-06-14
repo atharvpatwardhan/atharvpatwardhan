@@ -1,4 +1,4 @@
-<h1 align="center">Hello World,It's Atharv <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
+<h1 align="center">Hello World, It's Atharv <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
 <p align="center">
 <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Software+Engineer.;++;Full+Stack+Developer.;Computer+Science+Student.;Tech+Enthusiast.;Active+Learner.;Feel+free+to+reach+out+to+me+!"></a>
