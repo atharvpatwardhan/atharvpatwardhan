@@ -1,8 +1,12 @@
 <h1 align="center">Hello World,It's Atharv <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40"></h1>
 
-<p align="center"><img src="https://media.giphy.com/media/EOmYN5kVP3W2Lyn6dx/giphy.gif" width="300"/></p>
+<p align="center">
+<a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=cyan&size=35&center=true&vCenter=true&width=600&height=100&lines=I'm+a+Software+Engineer.;++;Full+Stack+Developer.;Computer+Science+Student.;Tech+Enthusiast.,;Active+Learner.,;Feel+free+to+reach+out+to+me+!"></a>
+</p>
 
-
+<p align="center">
+  <img src="http://github-readme-streak-stats.herokuapp.com?user=atharvpatwardhan&theme=sunset-gradient" />
+</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atharvpatwardhan&style=flat-square&color=blue" alt="">
 </p>
@@ -21,7 +25,7 @@
 </div>
 <div>
 
-&nbsp;About Me:
+### 🧠 &nbsp;About Me:
 
 - 💻I'm a Computer Science student interested in Machine Learning and Data Science.
 - 🌱 I also have an interest in web development.
@@ -51,11 +55,14 @@
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=atharvpatwardhan&theme=dark&background=000000)](https://git.io/streak-stats)
+<br />
+<img src="https://github-readme-stats.vercel.app/api?username=atharvpatwardhan&include_all_commits=true&count_private=true&show_icons=true&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="450"/>
+<br />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=atharvpatwardhan&show_icons=true&locale=en&layout=compact&line_height=20&title_color=7A7ADB&icon_color=2234AE&text_color=D3D3D3&bg_color=0,000000,130F40" width="375"  alt="atharvpatwardhan"/>
 
 
 <p align="center"><img src="https://media.giphy.com/media/vLlpbDafjgHystuJ0a/giphy.gif" width="250" /></p>
 
----
-</div>
+<p align="center"><img src="https://media.giphy.com/media/TNf5oSRelTeI8/giphy.gif" width="250" /></p>
+
 
