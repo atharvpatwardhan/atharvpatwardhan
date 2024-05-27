@@ -27,8 +27,8 @@
 
 ### 🧠 &nbsp;About Me:
 
-- 💻I'm a Computer Science student interested in Machine Learning and Data Science.
-- 🌱 I also have an interest in web development.
+- 💻I'm a Computer Science student interested in Full Stack Development and Mathematics.
+- 🌱 I'm always eager to learn new skills and technologies.
 - ⚡ <a href = "https://atharvpatwardhan.netlify.app/" >Personal Website</a>  
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-atharvpatwardhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-patwardhan-b3175b216/)
 
