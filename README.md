@@ -18,7 +18,7 @@
 </p>
 
 <p align="center">
-  <a href="https://atharvpatwardhan.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-Personal%20Website-yellow" alt="Portfolio"></a>
+  <a href="https://atharvpatwardhan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-Personal%20Website-yellow" alt="Portfolio"></a>
 </p
   <div>
 <p align="center"><img src="https://media.giphy.com/media/doXBzUFJRxpaUbuaqz/giphy.gif" width="600" height="300"  /></p>
@@ -27,9 +27,9 @@
 
 ### 🧠 &nbsp;About Me:
 
-- 💻I'm a Computer Science student interested in Full Stack Development and Mathematics.
+- 💻I'm a Computer Science student interested in Software Development and Machine Learning.
 - 🌱 I'm always eager to learn new skills and technologies.
-- ⚡ <a href = "https://atharvpatwardhan.netlify.app/" >Personal Website</a>  
+- ⚡ <a href = "https://atharvpatwardhan.vercel.app/" >Personal Website</a>  
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-atharvpatwardhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-patwardhan-b3175b216/)
 
 ---
