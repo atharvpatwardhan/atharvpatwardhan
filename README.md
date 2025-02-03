@@ -29,7 +29,7 @@
 
 - 💻I'm a Computer Science student interested in Software Development and Machine Learning.
 - 🌱 I'm always eager to learn new skills and technologies.
-- ⚡ <a href = "https://atharvpatwardhan.vercel.app/" >Personal Website</a>  
+- ⚡ <a href = "https://atharvpatwardhan.com" >Personal Website</a>  
 - 📫 How to reach me: &nbsp; [![Linkedin Badge](https://img.shields.io/badge/-atharvpatwardhan-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/atharv-patwardhan-b3175b216/)
 
 ---
