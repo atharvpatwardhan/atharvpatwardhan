@@ -8,7 +8,7 @@ Welcome to my GitHub profile! I'm passionate about **Data Engineering, Data Scie
 
 - 💼 **Open to Roles:** Data Engineering, Data Science, ML, and Software Engineering
 - 🐍 **Languages & Tools:** Python, Java, Typescript, SQL, AWS, Apache Airflow, Kafka
-- 🏆 **Certifications:** AWS Certified AI Practitioner
+- 🏆 **Certifications:** AWS Certified AI Practitioner, AWS Certified Machine Learning Engineer Associate
 - 🎯 **Interests:** Building intelligent systems, automating data pipelines, deploying ML models
 
 ---
