@@ -13,14 +13,6 @@ Welcome to my GitHub profile! I'm passionate about **Data Engineering, Data Scie
 
 ---
 
-## 🏸 Outside of Coding
-
-- 🏸 I love playing badminton
-- 🎹 I enjoy playing the piano
-- ♟️ Chess enthusiast
-
----
-
 ## 🌐 Connect with Me
 
 - 🌍 [atharvpatwardhan.com](https://atharvpatwardhan.com)
